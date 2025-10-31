@@ -45,6 +45,14 @@ NextAI 的核心采用原生 ArkTS + HarmonyOS NEXT UI 框架 构建，完全基
  
 ---
 
+## 使用方法
+你可以通过下面这些方式安装
+- 📦 [Auto-installer](https://github.com/likuai2010/auto-installer/)
+- 🧪 [DevEcho Testing](https://developer.huawei.com/consumer/cn/deveco-testing/)
+- 🏬 [AppGallery（海外地区）](https://appgallery.huawei.com/)
+  仅限 **非中国大陆地区** 用户搜索并下载。  
+  > ⚠️ 由于大陆地区发布需开发者资质与合规备案，目前暂未上架，请使用上述其他方式安装。
+
 ## 🚧 待完善
 目前版本已完成对以下模型的深度适配与验证：
 - **Qwen (通义千问)**
